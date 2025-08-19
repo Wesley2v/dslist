@@ -1,7 +1,6 @@
 package Wesley2v.com.github.dslist.controllers;
 
 import Wesley2v.com.github.dslist.dto.GameMinDTO;
-import Wesley2v.com.github.dslist.entities.Game;
 import Wesley2v.com.github.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

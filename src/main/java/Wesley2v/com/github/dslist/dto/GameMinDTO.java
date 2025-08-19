@@ -1,7 +1,6 @@
 package Wesley2v.com.github.dslist.dto;
 
 import Wesley2v.com.github.dslist.entities.Game;
-import jakarta.persistence.Column;
 
 public class GameMinDTO {
 
